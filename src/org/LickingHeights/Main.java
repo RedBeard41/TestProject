@@ -8,10 +8,8 @@ public class Main {
         int x, y;
         x = y = 5;
 	    int z + 255;
-
-        System.out.println("The sum is "+ (x+y + z));
-        System.out.println("The product is "+ z + (x*y));
-
+        int a = 25;
+        System.out.println("The sum is "+ (x+y+a));
         //added more code
     }
 }
