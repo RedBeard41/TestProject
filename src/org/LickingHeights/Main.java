@@ -10,5 +10,7 @@ public class Main {
 
         System.out.println("The sum is "+ (x+y));
         System.out.println("The product is "+ (x*y));
+
+        //added more code
     }
 }
