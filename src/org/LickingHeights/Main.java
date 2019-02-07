@@ -9,5 +9,6 @@ public class Main {
         x = y = 5;
 
         System.out.println("The sum is "+ (x+y));
+        System.out.println("The product is "+ (x*y));
     }
 }
